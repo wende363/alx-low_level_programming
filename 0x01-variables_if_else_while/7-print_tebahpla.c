@@ -1,8 +1,6 @@
 /*
  * File: 7-print_tebahpla.c
- * Auth: oneD M 
- *
- *
+ * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
