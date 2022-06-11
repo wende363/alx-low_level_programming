@@ -2,7 +2,8 @@
  * File: 7-print_tebahpla.c
  * Auth: oneD M 
  *
- * */
+ *
+ */
 
 #include <stdio.h>
 
