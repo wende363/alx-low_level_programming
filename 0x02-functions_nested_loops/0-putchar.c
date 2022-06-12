@@ -1,6 +1,5 @@
 /*
  * File: 0-putchar.c
- * Auth: oneD M
  *
  */
 
